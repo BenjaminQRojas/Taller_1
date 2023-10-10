@@ -1,0 +1,39 @@
+Minecraft,Mojang,7,30,game,Sandbox
+Grand Theft Auto V,Rockstar Games,18,30,game,Acción/Aventura
+The Witcher 3: Wild Hunt,CD Projekt Red,18,40,game,RPG
+Fortnite,Epic Games,13,0,game,Battle Royale
+Among Us,InnerSloth,10,5,game,Social Deducción
+Call of Duty: Warzone,Infinity Ward,17,0,game,Battle Royale
+Overwatch,Blizzard Entertainment,12,20,game,Hero Shooter
+Animal Crossing: New Horizons,Nintendo,3,60,game,Simulación
+Cyberpunk 2077,CD Projekt Red,18,50,game,RPG
+Valorant,Riot Games,16,0,game,Shooter táctico
+Stardew Valley,ConcernedApe,7,15,game,Sandbox/Farming
+The Elder Scrolls V: Skyrim,Bethesda Game Studios,18,20,game,RPG
+Counter-Strike: Global Offensive,Valve,17,0,game,Shooter
+Rocket League,Psyonix,3,0,game,Deportes
+Red Dead Redemption 2,Rockstar Games,18,60,game,Acción/Aventura
+Apex Legends,Respawn Entertainment,16,0,game,Battle Royale
+The Legend of Zelda: Breath of the Wild,Nintendo,10,60,game,Aventura
+League of Legends,Riot Games,14,0,game,MOBA
+Resident Evil Village,Capcom,18,50,game,Horror de supervivencia
+Super Mario Odyssey,Nintendo,7,60,game,Plataformas
+Microsoft Word,Microsoft,0,150,officeautomation,
+Google Docs,Google,0,0,officeautomation,
+LibreOffice Writer,The Document Foundation,0,0,officeautomation,
+Microsoft Excel,Microsoft,0,150,officeautomation,
+Apache OpenOffice Calc,Apache,0,0,officeautomation,
+Adobe Premiere Pro,Adobe,0,250,production,Edición de Video
+Ableton Live,Ableton,0,500,production,Producción Musical
+Adobe Photoshop,Adobe,0,21,production,Edición de Fotos
+OBS Studio,Open Broadcaster Software,0,0,production,Streaming de Video
+Google Chrome,Google,0,0,navegator,
+Mozilla Firefox,Mozilla Corporation,0,0,navegator,
+Norton AntiVirus,Symantec,0,50,security,Ransomware
+Malwarebytes,Malwarebytes Corporation,0,40,security,Spyware
+Bitdefender Total Security,Bitdefender,0,60,security,Botnets
+Kaspersky Internet Security,Kaspersky Lab,0,50,security,Rootkits
+McAfee AntiVirus Plus,McAfee,0,60,security,Gusanos
+Avast Premium Security,Avast,0,70,security,Troyanos
+Facebook,Meta Platforms,13,0,social,
+WhatsApp,Meta Platforms,18,0,social,

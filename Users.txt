@@ -1,0 +1,15 @@
+Admin1,admin123,30,admin,admin1@example.com,true
+User1,user123,28,user,user1@example.com
+User2,user456,35,user,user2@example.com
+User3,user789,22,user,user3@example.com
+User4,userabc,29,user,user4@example.com
+User5,userdef,32,user,user5@example.com
+User6,userghi,26,user,user6@example.com
+User7,userjkl,31,user,user7@example.com
+User8,usermno,27,user,user8@example.com
+User9,userpqr,24,user,user9@example.com
+User10,userstu,23,user,user10@example.com
+Kid1,kid123,12,kid
+Kid2,kid456,9,kid
+Kid3,kid789,8,kid
+Kid4,kidabc,10,kid
